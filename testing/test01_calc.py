@@ -6,7 +6,6 @@ import pytest
 
 from test_calc.calc import Calc
 
-
 @allure.feature("测试calc")
 class TestClac:
 
