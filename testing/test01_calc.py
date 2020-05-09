@@ -9,6 +9,7 @@ from test_calc.calc import Calc
 @allure.feature("测试calc")
 class TestClac:
 
+
     @pytest.fixture()
     @allure.story("实例化")
     def setup(self):
